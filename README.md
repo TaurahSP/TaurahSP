@@ -31,11 +31,12 @@
 
 ---
 
-<img align="left" alt="TaurahSP Github Stats" src="https://github-readme-stats.TaurahSP.vercel.app/api?username=TaurahSP&show_icons=true&hide_border=true&theme=dark&card_width=100%" />
+<img align="left" alt="TaurahSP Github Stats" src="https://github-readme-stats.vercel.app/api?username=TaurahSP&show_icons=true&hide_border=true&theme=dark&card_width=100%" />
 
 ---
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.TaurahSP.vercel.app/api/top-langs/?username=TaurahSP&layout=compact&theme=radical" />
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaurahSP&layout=compact&theme=radical" />
 </a>
 
 [website]: https://keshavtaurah.com
