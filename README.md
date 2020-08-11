@@ -34,6 +34,6 @@
 <img align="left" alt="TaurahSP Github Stats" src="https://github-readme-stats.vercel.app/api?username=TaurahSP&show_icons=true&hide_border=true&theme=dark" />
 
 
-[website]: https://keshavtaurah.com
+[website]: https://www.keshavtaurah.com
 [twitter]: https://twitter.com/keshavtaurah
 [linkedin]: https://www.linkedin.com/in/taurah/
