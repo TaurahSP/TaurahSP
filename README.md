@@ -36,7 +36,7 @@
 ---
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaurahSP&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaurahSP&layout=compact&theme=radical&card_width=100%" />
 </a>
 
 [website]: https://keshavtaurah.com
