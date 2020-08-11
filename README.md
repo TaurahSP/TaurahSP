@@ -31,7 +31,7 @@
 
 ---
 
-<img align="left" alt="TaurahSP Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=TaurahSP&show_icons=true&hide_border=true" />
+<img align="left" alt="TaurahSP Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=TaurahSP&show_icons=true&hide_border=true&theme=dark" />
 
 [website]: https://keshavtaurah.com
 [twitter]: https://twitter.com/keshavtaurah
