@@ -2,7 +2,7 @@
 
 <!--
 **TaurahSP/TaurahSP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 ### Hi there, I'm Taurah Sai Prithvisingh - aka [keshav Taurah][website] 👋
 
 ## I'm a Senior .Net Developer, Sharepoint Consultant, and Teacher!
