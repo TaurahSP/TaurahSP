@@ -33,10 +33,6 @@
 
 <img align="left" alt="TaurahSP Github Stats" src="https://github-readme-stats.vercel.app/api?username=TaurahSP&show_icons=true&hide_border=true&theme=dark" />
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaurahSP&layout=compact&theme=radical" />
-</a>
 
 [website]: https://keshavtaurah.com
 [twitter]: https://twitter.com/keshavtaurah
