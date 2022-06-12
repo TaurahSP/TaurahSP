@@ -1,11 +1,11 @@
 ### Hi there, I'm Taurah Sai Prithvisingh - aka [keshav Taurah][website] 👋
 
-## I'm a Senior .Net Developer, Sharepoint Consultant, and Teacher!
-- 🔭 I’m currently working on creating production ready react app and .net core!
-- 🌱 I’m currently learning react,spfx,.net core api and data structure and algorithms 🤣
+## I'm a Senior .Net Developer!
+- 🔭 I’m currently working on creating production ready app using microservices!
+- 🌱 I’m currently learning .net core api, clean architecture, CQRS and data structure and algorithms 🤣
 - 👯 I’m looking to collaborate with other open source contributors
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play fornite
+- 🥅 2022 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to swim
 
 ### Connect with me:
 
