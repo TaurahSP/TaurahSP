@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on creating production ready app using microservices!
 - 🌱 I’m currently learning .net core api, clean architecture, CQRS and data structure and algorithms 🤣
 - 👯 I’m looking to collaborate with other open source contributors
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: One leetcode question a day
 - ⚡ Fun fact: I love to swim
 
 ### Connect with me:
